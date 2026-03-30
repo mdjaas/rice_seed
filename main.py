@@ -32,8 +32,8 @@ CLS_MODEL_PATH = "vit_se_epoch_10.pth"
 
 # ─── Google Drive File IDs ─────────────────────────────────
 # Replace these with your actual Google Drive file IDs
-SEG_MODEL_GDRIVE_ID = "YOUR_UNET_FILE_ID"
-CLS_MODEL_GDRIVE_ID = "YOUR_VIT_FILE_ID"
+SEG_MODEL_GDRIVE_ID = "1eo1_18R7N9S1tZ_ZQK0RnLXwsvW0oUKW"
+CLS_MODEL_GDRIVE_ID = "1kHNTHg0IIoM90DYhaRBOOv_a9fCIcKzZ"
 
 CLASS_COLORS = [
     (255, 0, 0), (0, 255, 0), (0, 0, 255), (255, 255, 0),
